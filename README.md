@@ -1,18 +1,25 @@
+
 <h1 align="center">Hi 👋, I'm Yogesh Kumar Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="center" style="width: 100%" />
-</div>  
+<img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh9804&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh9804" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh9804" alt="yogesh9804" /></a> </p>
+
 - 🌱 I’m currently learning **Full Stack, React js and Java**
+
+- 👨‍💻 All of my projects are available at [https://strong-hummingbird-8b598c.netlify.app/](https://strong-hummingbird-8b598c.netlify.app/)
 
 - 💬 Ask me about **Web Development, Java**
 
 - 📫 How to reach me **singhyogesh627@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1my2PHl9D0uZbUWx1oe9KFTlNnZRjHbR-/view?usp=sharing](https://drive.google.com/file/d/1my2PHl9D0uZbUWx1oe9KFTlNnZRjHbR-/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yogeshfullstack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yogeshfullstack" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/yogeshfullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yogeshfullstack" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
